@@ -15,6 +15,6 @@ Built With:
 
 Contact:
 1. Drake L. McLean, Owner
-3. Olde Town Exchange
+3. Olde Town Exchange, LLC
 4. drake@oldetownexchange.com
 5. 303.942.0754
