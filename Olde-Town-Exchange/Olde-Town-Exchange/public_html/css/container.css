@@ -1,0 +1,22 @@
+<style type='text/css'>
+
+body {
+	background-color: ivory;
+}
+
+.howtoconsigngrid {
+  display: grid;
+  width: 80%;
+  margin-left: 10%;
+  grid-template-columns: 25% 25% 25% 25%;
+  grid-template-rows: repeat(21, auto);
+  text-indent: 10px;
+}
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+</style>

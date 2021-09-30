@@ -1,0 +1,55 @@
+<style type='text/css'>
+
+/* desktop width (default) */
+.hdr-image {
+  background-image: url(<?php echo($config['path']['com'] . '/img/g_Barnwood.jpg'); ?>);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 150px;
+  text-align: center;
+}
+
+/* large screen width */
+@media screen and (max-width: 991px) {
+
+	.hdr-image {
+		background-image: url(<?php echo($config['path']['com'] . '/img/g_Barnwood.jpg'); ?>);
+		background-repeat: no-repeat;
+		background-position: center;
+		background-size: cover;
+		height: 110px;
+		text-align: center;
+	}
+
+}
+
+/* medium tablet width */
+@media screen and (max-width: 767px) {
+
+	.hdr-image {
+		background-image: url(<?php echo($config['path']['com'] . '/img/g_Barnwood.jpg'); ?>);
+		background-repeat: no-repeat;
+		background-position: center;
+		background-size: cover;
+		height: 75px;
+		text-align: center;
+	}
+
+}
+
+/* small phone width */
+@media screen and (max-width: 479px) {
+
+	.hdr-image {
+		background-image: url(<?php echo($config['path']['com'] . '/img/g_Barnwood.jpg'); ?>);
+		background-repeat: no-repeat;
+		background-position: center;
+		background-size: cover;
+		height: 30px;
+		text-align: center;
+	}
+
+}
+
+</style>

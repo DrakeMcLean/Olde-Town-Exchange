@@ -1,0 +1,110 @@
+<style type='text/css'>
+
+@font-face {
+  font-family: Riven;
+  src: url(font/Riven.ttf);
+}
+
+h1,h2,h3,h4,h5,h6 {
+  font-family: Riven, Sans Serif;
+}
+
+  .visit-font {
+    font-family: Riven;
+    font-size:75px;
+  }
+
+.brown {
+  color: #330F00;
+}
+
+.teal {
+  color: #0C6B71;
+}
+
+.white {
+  color: #FFFFFF;
+}
+
+.red {
+  color: #FF0000;
+}
+
+
+/* desktop width (default) */
+.hdr-font {
+  font-family: Riven;
+  font-size:100px;
+  text-shadow: -1px 0 tan, 0 1px tan, 1px 0 tan, 0 -1px tan;
+}
+
+/* large screen width */
+@media screen and (max-width: 991px) {
+
+  .hdr-font {
+    font-family: Riven;
+    font-size:75px;
+    text-shadow: -1px 0 tan, 0 1px tan, 1px 0 tan, 0 -1px tan;
+  }
+
+  .visit-font {
+    font-family: Riven;
+    font-size:60px;
+  }
+
+  h1{font-size:24px;}
+  h2{font-size:20px;}
+  h3{font-size:18px;}
+  h4{font-size:14px;}
+  h5{font-size:12px;}
+  h6{font-size:10px;}
+
+}
+
+/* medium tablet width */
+@media screen and (max-width: 767px) {
+
+  .hdr-font {
+    font-family: Riven;
+    font-size:50px;
+    text-shadow: -1px 0 tan, 0 1px tan, 1px 0 tan, 0 -1px tan;
+  }
+
+  .visit-font {
+    font-family: Riven;
+    font-size:40px;
+  }
+
+  h1{font-size:20px;}
+  h2{font-size:18px;}
+  h3{font-size:14px;}
+  h4{font-size:12px;}
+  h5{font-size:10px;}
+  h6{font-size:8px;}
+
+}
+
+/* small phone width */
+@media screen and (max-width: 479px) {
+
+  .hdr-font {
+    font-family: Riven;
+    font-size:20px;
+    text-shadow: -1px 0 tan, 0 1px tan, 1px 0 tan, 0 -1px tan;
+  }
+
+  .visit-font {
+    font-family: Riven;
+    font-size:20px;
+  }
+
+  h1{font-size:16px;}
+  h2{font-size:14px;}
+  h3{font-size:12px;}
+  h4{font-size:10px;}
+  h5{font-size:8px;}
+  h6{font-size:6px;}
+
+}
+
+</style>
