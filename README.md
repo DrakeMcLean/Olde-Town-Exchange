@@ -13,6 +13,9 @@ Built With:
 2. Javascript used to connect with Google.
 3. Hosted on HostGator.
 
+Public URL:
+1. https://oldetownexchange.com/
+
 Contact:
 1. Drake L. McLean, Owner
 3. Olde Town Exchange, LLC
