@@ -4,18 +4,17 @@ DESCRIPTION
 ------------
 Olde Town Exchange is a simple, static website designed for a Upscale Women's Boutique Consignment store.
 
-
 Features:
 1. Responsive design to accommodate mobile devices.
 2. Direct links to Google Maps / Reviews.
-
 
 Built With:
 1. Simple, PHP static website.
 2. Javascript used to connect with Google.
 3. Hosted on HostGator.
 
-
-BACK MATTER
-------------
-1. Legal disclaimer: 
+Contact:
+1. Drake L. McLean, Owner
+3. Olde Town Exchange
+4. drake@oldetownexchange.com
+5. 303.942.0754
