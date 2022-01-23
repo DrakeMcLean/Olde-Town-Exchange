@@ -1,4 +1,0 @@
-# Example Repository
-Hello coders!
-
-this line is a new
